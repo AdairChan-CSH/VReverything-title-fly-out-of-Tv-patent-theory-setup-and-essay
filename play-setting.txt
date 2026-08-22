@@ -6,5 +6,6 @@ requirements:
 1.A S series galaxy old spare mobile phone: like minimun is S9
 2.A Pc windows or may be linux, macOs is possible too
 3.A plastic VR glasses (sheild toy)
-4.A VNC software like  PC-link or anydesk(old app2025 for mobile, updated for pc) or gamehub(from gamesir)
+4.A VNC software like  PC-link or anydesk(old app2025 for mobile, updated for pc) or gamehub(from gamesir,
+old app2025 for mobile)
 5.https://vreverything.base44.app
