@@ -1,7 +1,7 @@
 In long term, if we still want to play VR virtual reality as a player, without a clear choice of which band
 is suitable, a technology base basic is set up without boarderlines and cost.
 
-This is the low cost setting to play this suggested in these moment(for everything in computer auto 3D deep)
+This is the low cost setting to play this, suggested in these moment(for everything in computer auto 3D deep)
 requirements:
 1.A S series galaxy old spare mobile phone: like minimun is S9
 2.A Pc windows or may be linux, macOs is possible too
