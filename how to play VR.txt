@@ -1,0 +1,1 @@
+go to play-setting.txt
