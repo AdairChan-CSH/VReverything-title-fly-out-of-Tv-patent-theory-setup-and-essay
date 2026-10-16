@@ -9,12 +9,12 @@ Requirements:
 3.A plastic VR glasses (shield toy)
 4.A VNC software like  PC-link or anydesk(old app2025 for mobile, updated for pc) or gamehub(from gamesir,
 old app2025 for mobile) (when you uses pc link, you need to switch monitor carefully)
-5.https://vreverything.base44.app
+5.https://vreverything.base44.app or https://dlss5.base44.app
 6.A second monitor firmed in computer(and browser a software too)
 
 Methods:
 1.Connect second monitor on pc, 2.install vnc anydesk app on your mobile, 3.and pc computer, 4.connect with number on 
 mobile, 5.click confirm on pc, 6.(choosing second monitor to screen stream) 7.enlarge the mobile screen by half after 
 choosing second monitor to screen stream, 8.put mobile it in the glass, 9.use second browser to open 
-https://vreverything.base44.app , 10.choose the third one at bottom (semi black and white) , 11.open back first browser
-on your pc and 12.wear yoor glasses and view
+https://vreverything.base44.app or https://dlss5.base44.app, 10.choose the third one at bottom (semi black and white) , 
+11.open back first browser on your pc and 12.wear your glasses and view
